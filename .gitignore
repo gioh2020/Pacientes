@@ -1,0 +1,8 @@
+# Ignorar la carpeta de Visual Studio
+.vs/
+
+# Recomendado para proyectos .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
